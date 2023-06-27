@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name" translatable="false">StoryMApps</string>
+
+    <string name="login" translatable="false">Login</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="email_hint">Your Email</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Your Password</string>
+    <string name="login_button" translatable="false">Login</string>
+    <string name="no_account">Don’t have account yet?</string>
+    <string name="image_logo" translatable="false">Logo SMApps</string>
+
+    <string name="register" translatable="false">Register</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Your Name</string>
+    <string name="register_button" translatable="false">Register</string>
+    <string name="have_account">Already have an account?</string>
+
+    <string name="no_empty">This form must be filled</string>
+    <string name="more_than_8">Password must contain minimal 8 characters</string>
+    <string name="wrong_format">Wrong Email format</string>
+    <string name="invalid_login">Failed Login Attempt</string>
+    <string name="invalid_register">Failed Register Attempt</string>
+    <string name="invalid_account">Your account was not available, try another account</string>
+    <string name="invalid_email">Your email already used</string>
+    <string name="congrats">Congratulations!</string>
+    <string name="register_success">Your account was made successfully</string>
+    <string name="login_success">Your login attempt was success</string>
+    <string name="ok">OK</string>
+    <string name="next">Next</string>
+
+    <string name="stories_page">Stories Page</string>
+    <string name="detail_page">Detail Page</string>
+    <string name="add_page">Add Story Page</string>
+    <string name="maps_page">Maps Page</string>
+    <string name="setting_page">Setting Page</string>
+
+    <string name="maps_button" translatable="false">Maps Button</string>
+    <string name="setting_button" translatable="false">Setting Button</string>
+    <string name="logout_button" translatable="false">Logout Button</string>
+
+    <string name="user">Username</string>
+    <string name="desc">Insert Description</string>
+    <string name="image">Image Story</string>
+
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="enable_location">Enable Location?   </string>
+    <string name="upload">Upload</string>
+    <string name="capture_desc">Capture Button</string>
+    <string name="rotate_desc">Rotate Button</string>
+    
+    <string name="title_dicoding" translatable="false">Dicoding Space</string>
+    <string name="snippet_dicoding" translatable="false">Batik Kumeli No.50</string>
+
+    <string name="change_language">Change Language</string>
+    <string name="change_language_button">Click Here!</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="logout" translatable="false">Logout</string>
+    <string name="confirm_logout">Do you want to Logout?</string>
+    <string name="exit">Exit App</string>
+    <string name="confirm_exit">Do you want to close the app?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="retry">Retry</string>
+    <string name="timeout" translatable="false">Timeout</string>
+    <string name="no_permission">Not Getting Permission</string>
+    <string name="no_location">Location is not detected</string>
+    <string name="choose_picture">Choose a Picture</string>
+    <string name="failed_capture">Failed Captured Picture</string>
+    <string name="failed_show_camera">Failed Showed Camera</string>
+    <string name="success_upload">Your story was uploaded successfully</string>
+    <string name="error_upload">Your upload attempt is failed</string>
+
+
+</resources>

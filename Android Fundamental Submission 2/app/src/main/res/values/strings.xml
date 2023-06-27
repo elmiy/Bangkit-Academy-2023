@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="user_account">User Account</string>
+    <string name="search">Find Account</string>
+    <string name="setting">Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="replace_uname">Empty Username</string>
+    <string name="replace_name">Empty Name</string>
+    <string name="followers">X Followers</string>
+    <string name="following">X Following</string>
+    <string name="data_followers">%d Followers</string>
+    <string name="data_following">%d Following</string>
+    <string name="dark_mode">Change to Dark Mode</string>
+</resources>

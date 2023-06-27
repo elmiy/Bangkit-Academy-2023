@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name" translatable="false">StoryMApps</string>
+
+    <string name="email_hint">Email Anda</string>
+    <string name="password">Kata Sandi</string>
+    <string name="password_hint">Kata Sandi Anda</string>
+    <string name="login_button" translatable="false">Login</string>
+    <string name="no_account">Belum punya akun?</string>
+
+    <string name="register" translatable="false">Register</string>
+    <string name="name">Nama</string>
+    <string name="name_hint">Nama Anda</string>
+    <string name="register_button" translatable="false">Register</string>
+    <string name="have_account">Sudah punya akun?</string>
+
+    <string name="no_empty">Formulir harus diisi</string>
+    <string name="more_than_8">Kata sandi minimal terdiri dari 8 huruf</string>
+    <string name="wrong_format">format Email salah</string>
+    <string name="invalid_login">Percobaan Login Gagal</string>
+    <string name="invalid_register">Percobaan Register Gagal</string>
+    <string name="invalid_account">Akun anda tidak tersedia, coba akun lain</string>
+    <string name="invalid_email">Email anda telah digunakan</string>
+    <string name="congrats">Selamat!</string>
+    <string name="register_success">Akun anda berhasil dibuat</string>
+    <string name="login_success">Kesempatan Login anda berhasil</string>
+    <string name="ok">OK</string>
+    <string name="next">Lanjut</string>
+
+    <string name="stories_page">Halaman Stories</string>
+    <string name="detail_page">Halaman Detail</string>
+    <string name="add_page">Halaman Tambah Story</string>
+    <string name="maps_page">Halaman Peta</string>
+    <string name="setting_page">Halaman Pengaturan</string>
+
+    <string name="maps_button" translatable="false">Maps Button</string>
+    <string name="setting_button" translatable="false">Setting Button</string>
+    <string name="logout_button" translatable="false">Logout Button</string>
+
+    <string name="user">Nama Pengguna</string>
+    <string name="desc">Deskripsi</string>
+    <string name="image">Image Story</string>
+
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="enable_location">Cantumkan Lokasi?</string>
+    <string name="upload">Unggah</string>
+    <string name="capture_desc">Tombol Foto</string>
+    <string name="rotate_desc">Tombol Rotasi</string>
+
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="change_language_button">Klik di sini!</string>
+    <string name="change_theme">Ubah Tema</string>
+    <string name="logout" translatable="false">Logout</string>
+    <string name="confirm_logout">Apakah anda ingin Logout?</string>
+    <string name="exit">Keluar Aplikasi</string>
+    <string name="confirm_exit">Apakah anda ingin keluar aplikasi?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="timeout" translatable="false">Timeout</string>
+    <string name="no_permission">Tidak Mendapatkan Perizinan</string>
+    <string name="no_location">Lokasi Tidak Terdeteksi</string>
+    <string name="choose_picture">Pilih Gambar</string>
+    <string name="failed_capture">Gagal Mengambil Gambar</string>
+    <string name="failed_show_camera">Gagal Membuka Kamera</string>
+    <string name="success_upload">Story anda berhasil diunggah</string>
+    <string name="error_upload">Percobaan mengunggah anda gagal</string>
+
+</resources>

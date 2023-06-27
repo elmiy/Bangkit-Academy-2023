@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="16dp"
+    android:layout_marginVertical="8dp"
+    android:id="@+id/card_view_song"
+    card_view:cardCornerRadius="8dp"
+    card_view:cardBackgroundColor="@color/primaryb">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:padding="8dp">
+
+        <ImageView
+            android:id="@+id/img_cover"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:scaleType="centerCrop"
+            card_view:layout_constraintBottom_toBottomOf="parent"
+            card_view:layout_constraintStart_toStartOf="parent"
+            card_view:layout_constraintTop_toTopOf="parent"
+            tools:src="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            style="@style/TextSettingDetail"
+            android:text="@string/songs_title"
+            android:textColor="@color/white"
+            android:fontFamily="@font/poppins_bold"
+            android:textSize="16sp"
+            card_view:layout_constraintBottom_toTopOf="@+id/tv_singer"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintStart_toEndOf="@+id/img_cover"
+            card_view:layout_constraintTop_toTopOf="@+id/img_cover"
+            tools:text="@string/songs_title" />
+
+        <TextView
+            android:id="@+id/tv_singer"
+            style="@style/TextSettingDetail"
+            android:text="@string/songs_title"
+            android:textColor="@color/white"
+            android:fontFamily="@font/poppins_semibold"
+            android:textSize="16sp"
+            android:maxLines="1"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintStart_toEndOf="@+id/img_cover"
+            card_view:layout_constraintTop_toBottomOf="@+id/tv_title"
+            tools:text="@string/songs_singer" />
+
+        <TextView
+            android:id="@+id/tv_description"
+            style="@style/TextSettingDetail"
+            android:textColor="@color/white"
+            android:fontFamily="@font/poppins_regular"
+            android:text="@string/songs_title"
+            android:textSize="10sp"
+            android:maxLines="2"
+            card_view:layout_constraintBottom_toBottomOf="parent"
+            card_view:layout_constraintEnd_toEndOf="parent"
+            card_view:layout_constraintStart_toEndOf="@+id/img_cover"
+            card_view:layout_constraintTop_toBottomOf="@+id/tv_singer"
+            tools:text="@string/songs_desc" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>

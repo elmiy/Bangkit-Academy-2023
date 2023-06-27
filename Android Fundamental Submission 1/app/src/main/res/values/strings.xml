@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">listof-users-github</string>
+    <string name="user_account">User Account</string>
+    <string name="search">Find Account</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="replace_uname">Empty Username</string>
+    <string name="replace_name">Empty Name</string>
+    <string name="followers">X Followers</string>
+    <string name="following">X Following</string>
+</resources>

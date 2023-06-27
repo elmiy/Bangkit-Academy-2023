@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TheLyrics</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_about">About</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_about">About</string>
+    <string name="home_page">Home Page</string>
+    <string name="favorite_page">Favorite Page</string>
+    <string name="about_page">About Page</string>
+    <string name="home_icon">Home</string>
+    <string name="favorite_icon">Favorite</string>
+    <string name="about_icon">Profile</string>
+
+
+    <string name="search_song">Search Song</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="about_photo">About Photo</string>
+    <string name="album_cover">Cover Album</string>
+    <string name="arrow_back">Back Button</string>
+    <string name="released_year">Released: %s</string>
+    <string name="lyric">Lyric</string>
+
+    <string name="name_elmi">Elmifta Yuana</string>
+    <string name="email_elmi">meyuanaa@gmail.com</string>
+    <string name="photo_elmi">https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:eea49ef157defa13843dc68567404df820230127112932.png</string>
+</resources>

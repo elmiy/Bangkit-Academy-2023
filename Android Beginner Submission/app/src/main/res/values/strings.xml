@@ -1,0 +1,764 @@
+<resources>
+    <string name="app_name">the-lyrics</string>
+    <string name="songs_title">Title</string>
+    <string name="songs_singer">Singer</string>
+    <string name="songs_desc">Description</string>
+    <string name="songs_lyric">Lyric</string>
+    <string name="songs_date">Released at</string>
+    <string name="profile">Profile</string>
+    <string name="nama">Elmifta Yuana</string>
+    <string name="email">meyuanaa@gmail.com</string>
+    <string name="foto_diri">https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:eea49ef157defa13843dc68567404df820230127112932.png</string>
+
+    <string-array name="data_titles">
+        <item>Drown</item>
+        <item>Consume</item>
+        <item>Serana</item>
+        <item>Rantau</item>
+        <item>double take</item>
+        <item>CHILL</item>
+        <item>Gunjou</item>
+        <item>Teddy Bear</item>
+        <item>Shinunoga E-Wa</item>
+        <item>Sweet Scar</item>
+        <item>Penyendiri</item>
+        <item>Ditto</item>
+    </string-array>
+
+    <string-array name="data_singers">
+        <item>Bring Me The Horizon</item>
+        <item>Chase Atlantic feat. Goon Des Garcons</item>
+        <item>For Revenge</item>
+        <item>Feby Putri</item>
+        <item>dhruv</item>
+        <item>Stray Kids</item>
+        <item>YOASOBI</item>
+        <item>STAYC</item>
+        <item>Fuji Kaze</item>
+        <item>Weird Genius, Prince Husein, Eka Gustiwana, Reza Oktovian, Billy Taner</item>
+        <item>Misellia</item>
+        <item>NewJeans</item>
+    </string-array>
+
+    <string-array name="data_descriptions">
+        <item>Is originally released as a stand-alone single, a remixed version features on the band\'s fifth studio album "That\'s the Spirit" and was released as the lead single. The track, musically, marks a shift away from the band\'s previously established metalcore sound. </item>
+        <item>A song inspired by the TV series Tokyo Ghoul. The song is seemingly written from the perspective of the main character, Kaneki – it details his struggles with accepting that he become a ghoul and must consume humans to live.</item>
+        <item>Serana means languish, which the singer want to depicts sadness and regret over the loss of someone. The lyrics are also made darker with an orchestral touch so that it seems more touching.</item>
+        <item>Is a single from Feby Putri\'s 1st album. The song itself, tells us about how people start real moves and real processes.</item>
+        <item>“double take” follows dhruv as he falls in love with one of his friends, and he wonders if his friend feels the same way. The single was the first released song by dhruv after a couple of SoundCloud releases.</item>
+        <item>Is a song about a separation between two people. When usually people tend to separate while having fights, this song tells people to calm down before separate.</item>
+        <item>It tells about people who try to achieve their dream and become themselves.  Even though it might be sad, they still went forward and walked the path that they choose and liked.</item>
+        <item>Is a retro funk track mixed with electronic pop creating the quirky sound STAYC is known for. On “Teddy Bear,” we got to learn to live life freely without having to always wait for their “teddy bear.”</item>
+        <item>Is a love song where the singer admits he can’t live without the one he loves. In the chorus, he repeats, “Shinu no ga ii wa,” which is Japanese for “I’d rather die.” As a sign of his love, he confesses that he’s keen to sacrifice many essential things of life.</item>
+        <item>It tells about someone\'s feelings of disappointment and wounds that are difficult to get rid of even though they have tried.</item>
+        <item>It tells us about someone who liked it better to be alone and stayed in her/his own imagination because her/his is too scared to tell others about themselves</item>
+        <item>Is a song about what we feel when we love someone and are not sure they’re returning our feelings. “Ditto” is an expression that refers to something already said: it would be enough for them to hear that, to understand that they are loved as much as they do.</item>
+    </string-array>
+
+    <string-array name="data_dates">
+        <item>2014</item>
+        <item>2017</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2019</item>
+        <item>2022</item>
+        <item>2020</item>
+        <item>2023</item>
+        <item>2020</item>
+        <item>2017</item>
+        <item>2023</item>
+        <item>2022</item>
+    </string-array>
+
+    <string-array name="data_lyrics">
+        <item>What doesn\'t kill you makes you wish you were dead \n
+            Got a hole in my soul growing deeper and deeper, and I can\'t take \n
+            One more moment of this silence, the loneliness is haunting me \n
+            And the weight of the world\'s getting harder to hold up \n
+            \n
+            It comes in waves, I close my eyes \n
+            Hold my breath and let it bury me \n
+            I\'m not okay and it\'s not alright \n
+            Won\'t you drag the lake and bring me home again? \n
+            \n
+            Who will fix me now? Dive in when I\'m down? \n
+            Save me from myself, don\'t let me drown\n
+            Who will make me fight? Drag me out alive?\n
+            Save me from myself, don\'t let me drown\n
+            \n
+            What doesn\'t destroy you, leaves you broken instead\n
+            Got a hole in my soul growing deeper and deeper, and I can\'t take\n
+            One more moment of this silence, the loneliness is haunting me\n
+            And the weight of the world\'s getting harder to hold up\n
+            \n
+            It comes in waves, I close my eyes\n
+            Hold my breath and let it bury me\n
+            I\'m not okay and it\'s not alright\n
+            Won\'t you drag the lake and bring me home again?\n
+            \n
+            Who will fix me now? Dive in when I\'m down?\n
+            Save me from myself, don\'t let me drown\n
+            Who will make me fight? Drag me out alive?\n
+            Save me from myself, don\'t let me drown\n
+            \n
+            \'Cause you know that I can\'t do this on my own\n
+            \'Cause you know that I can\'t do this on my own\n
+            \'Cause you know that I can\'t do this on my own\n
+            (\'Cause you know that I can\'t do this on my)\n
+            You might also like\n
+            Follow You\n
+            Bring Me The Horizon\n
+            Can You Feel My Heart\n
+            Bring Me The Horizon\n
+            Doomed\n
+            Bring Me The Horizon\n
+            \n
+            Who will fix me now?\n
+            Who will fix me now?\n
+            Who will fix me now? Dive in when I\'m down?\n
+            Save me from myself, don\'t let me drown</item>
+
+        <item>Honto wa watashi kizuitetan desu\n
+            Anata ga watashi o mite ite kureta koto\n
+            \n
+            Alright, alright, woah\n
+            Why you pointing at me with that knife?\n
+            I\'ve been cutting corners all my life, girl\n
+            The terror doesn\'t blossom overnight, no\n
+            She\'s running through the city in a rampage\n
+            Pressing on her fingers \'til the bones break\n
+            There\'s blood all in her nose from the propane\n
+            But a needle to the skin will make the pain fade (Yeah)\n
+            \n
+            Yeah, ah-ah\n
+            This is what I do, ah-ah\n
+            Take another bite, ah-ah\n
+            Big enough to chew\n
+            \n
+            She said, "Careful, or you\'ll lose it"\n
+            But, girl, I\'m only human\n
+            And I know there\'s a blade where your heart is\n
+            And you know how to use it\n
+            And you can take my flesh if you want, girl\n
+            But, baby, don\'t abuse it\n
+            These voices in my head screaming, "Run now"\n
+            I\'m praying that they\'re human\n
+            \n
+            Rollin\', rollin\', rolling back your eyes to your mind like\n
+            Oh, woah, the pressure in the gland\'s tight\n
+            Yeah, woah, yeah, it\'s either kill or be killed like\n
+            Oh, woah, the blood is either poured or it’s spilt like\n
+            \n
+            Yeah, ah-ah\n
+            This is what I do, ah-ah\n
+            Take another bite, ah-ah\n
+            Big enough to chew\n
+            You might also like\n
+            Lift Me Up\n
+            Rihanna\n
+            Shirt\n
+            SZA\n
+            Rich Minion\n
+            Yeat\n
+            \n
+            She said, "Careful, or you\'ll lose it"\n
+            But, girl, I\'m only human\n
+            And I know there\'s a blade where your heart is\n
+            And you know how to use it\n
+            And you can take my flesh if you want, girl\n
+            But, baby, don\'t abuse it\n
+            These voices in my head screaming, "Run now"\n
+            I\'m praying that they\'re human\n
+            \n
+            Alright, alright, woah\n
+            Love you, but you cannot spend the night, nah\n
+            I\'ve been alone almost all my life, girl\n
+            And shit like that don\'t change up overnight, sweet\n
+            I let you sleep in my tee\n
+            Tell me the things that you don’t normally tweet\n
+            Acid and LSD and smokin\' blunts on the beach\n
+            69 down 69, so we can both get a piece, yeah\n
+            I’ve been cutting corners like my whole life\n
+            Backstabbing bitches tryna\' kill me with the whole knife\n
+            Day I die\'ll be the only day a nigga ghostwrite\n
+            When I go, they\'ll treat me like a god if this shit goes right\n
+            \n
+            She said, \"Careful, or you\'ll lose it\"\n
+            But, girl, I\'m only human\n
+            And I know there\'s a blade where your heart is\n
+            And you know how to use it\n
+            And you can take my flesh if you want, girl\n
+            But, baby, don\'t abuse it (Calm down)\n
+            These voices in my head screaming, "Run now" (Don\'t run)\n
+            I\'m praying that they\'re human\n
+            \n
+            Please understand that I\'m trying my hardest\n
+            My head\'s a mess, but I\'m trying regardless\n
+            Anxiety is one hell of a problem\n
+            She\'s latching onto me, I can\'t resolve it\n
+            It\'s not right, it\'s not fair, it\'s not fair\n
+            It\'s not fair, it\'s not fair, it\'s not fair\n
+            Oh, no, no, no (Don\'t run)\n
+            Don\'t run, don\'t run</item>
+
+        <item>Di setiap masa yang telah kulewati\n
+            Meluap bersama kisah tak terganti\n
+            Senja mulai membiru menunggu yang berlalu\n
+            Haru air mata menyela iringi rindunya\n
+            Jika ku merasa sepi\n
+            Kembalilah ke tempatku menanti\n
+            Sebelum waktu menuntut mati\n
+            Ha-a, o-oo\n
+            Ha-a, o-oo\n
+            Ha-a, o-oo\n
+            Ha-a, o-oo\n
+            Beritahu aku cara melupakanmu\n
+            Seperti kau ajarkanku dewasa\n
+            Beritahu aku cara merelakanmu\n
+            Seperti kau ajarkanku bahagia\n
+            Biarkan ku menepi jika kau akan kembali\n
+            Dan yakinkan ku bahwa kau t\'lah temukan yang kau cari\n
+            Izinkan ku membenci pada sang pengganti\n
+            Dan yakinkan ku bahwa kau t\'lah temukan yang kau cari\n
+            Beritahu aku cara melupakanmu\n
+            Seperti kau ajarkanku dewasa\n
+            Beritahu aku cara merelakanmu\n
+            Seperti kau ajarkanku bahagia\n
+            Beritahu aku cara melupakanmu\n
+            Seperti kau ajarkanku dewasa\n
+            Beritahu aku cara merelakanmu\n
+            Seperti kau ajarkanku untuk selalu sempurna</item>
+        <item>Beranjak tuk melihat apa kabarnya dunia\n
+            Memulai lembaran baru\n
+            Amat jauh berbedanya\n
+            Dari nyaman yang slalu kubanggakan\n
+            Berjejak di kota yang ramai jua slama ini\n
+            Beberapa tlah kupahami\n
+            Masih ada turut serta\n
+            Kesemogaan dari yang berarti\n
+            Bernyanyilah\n
+            Seirama syalala\n
+            Berpadu banyak jiwa yang awal tak saling tahu\n
+            Memulai cerita baru\n
+            Kerap kali hilang risau\n
+            Dalam lingkup yang menurutku utuh\n
+            He eh huhu\n
+            Bernyanyilah\n
+            Seirama syala la\n
+            Bernyanyilah menarilah\n
+            Syala la\n
+            Bernyanyilah\n
+            Menarilah</item>
+
+        <item>I could say I never dare\n
+            To think about you in that way, but\n
+            I would be lyin\'\n
+            And I pretend I\'m happy for you\n
+            When you find some dude to take home\n
+            But I won\'t deny that\n
+            In the midst of the crowds\n
+            In the shapes in the clouds\n
+            I don\'t see nobody but you\n
+            In my rose-tinted dreams\n
+            Wrinkled silk on my sheets\n
+            I don\'t see nobody but you\n
+            Boy, you got me hooked onto something\n
+            Who could say that they saw us coming?\n
+            Tell me\n
+            Do you feel the love?\n
+            Spend a summer or a lifetime with me\n
+            Let me take you to the place of your dreams\n
+            Tell me\n
+            Do you feel the love?\n
+            And I could say I never unzipped\n
+            Those blue Levi\'s inside my head\n
+            But that\'s far from the truth\n
+            Don\'t know what\'s come over me\n
+            It seems like yesterday when I said\n
+            "We\'ll be friends forever"\n
+            Constellations of stars\n
+            Murals on city walls\n
+            I don\'t see nobody but you\n
+            You\'re my vice, you\'re my muse\n
+            You\'re a nineteenth floor view\n
+            I don\'t see nobody but you\n
+            Boy, you got me hooked onto something\n
+            Who could say that they saw us coming?\n
+            Tell me\n
+            Do you feel the love?\n
+            Spend a summer or a lifetime with me\n
+            Let me take you to the place of your dreams\n
+            Tell me\n
+            Do you feel the love?\n
+            Boy, you got me hooked onto something\n
+            Who could say that they saw us coming?\n
+            Tell me\n
+            Do you feel the love?\n
+            Spend a summer or a lifetime with me\n
+            Let me take you to the place of your dreams\n
+            Tell me\n
+            Do you feel the love?\n
+            Do you feel the love?\n
+            Do you feel the love?\n
+            Do you feel the love?\n
+            Do you feel the love?\n
+            Feel the love\n
+            Do you feel the love?</item>
+
+        <item>칼로 물 베듯 끊이지가 않는 싸움\n
+            처음부터 맞지 않았던 건 아니야\n
+            우린 그저 다른 것일 뿐이라\n
+            생각했던 그 생각은 결국 틀렸던 것일까\n
+            \n
+            손을 잡아도 서로 다른 곳을 보고\n
+            대화 주제의 흐름은 다 딴 데로\n
+            이 애정 없는 대화 속에 맘이란\n
+            그저 텅 빈 쓰레기통에 눌러 붙은 껌이야\n
+            \n
+            시곗바늘 소리가 ti-ki tok\n
+            침묵 속에 어색한 기류가 흘러\n
+            갖은 이유로 내게 찔려 있는 눈빛\n
+            속에 아주 얕은 맘으로\n
+            \n
+            비켜줄래\n
+            라는 말을 꺼냈을 때\n
+            슬픔이라기보단 후련하게도 yeah\n
+            Yes you that’s you thank you right now\n
+            그래 우린\n
+            \n
+            Yeah we gonna break break break together\n
+            서로의 값진 매일매일들을 불태워\n
+            이젠 모두 남김없이 버려도 우린 후회 없어\n
+            그저 속 타는 마음만 식혀\n
+            \n
+            이젠 내 내 내게 신경 꺼\n
+            추억 속 여기서 그만 밖으로 나가줘\n
+            그래 너도 남김없이 버려 다 다신 후회 없게\n
+            일단 속 타는 마음 좀 식혀\n
+            \n
+            (I mean like ah)\n
+            빠르게 빠르게 더 식어버린 맘 다\n
+            씻어내고 새로운 시작 서로 해보자고 start now\n
+            지지고 볶고 판단은 나중으로 미뤄\n
+            어차피 이 관계의 지속 가능성은 zero\n
+            싹 다\n
+            \n
+            그래 다 지워 보자고\n
+            이게 맞냐고 성내도\n
+            너도 다 지울 거잖어\n
+            왜 아닌 척 눈시울 붉혀\n
+            \n
+            시곗바늘 소리가 ti-ki tok\n
+            침묵 속에 어색한 기류가 흘러\n
+            갖은 이유로 내게 찔려 있는 눈빛\n
+            속에 아주 얕은 맘으로\n
+            \n
+            비켜줄래\n
+            라는 말을 꺼냈을 때\n
+            슬픔이라기보단 후련하게도 yeah\n
+            Yes you that’s you thank you right now\n
+            그래 우린\n
+            \n
+            Yeah we gonna break break break together\n
+            서로의 값진 매일매일들을 불태워\n
+            이젠 모두 남김없이 버려도 우린 후회 없어\n
+            그저 속 타는 마음만 식혀\n
+            \n
+            이젠 내 내 내게 신경 꺼\n
+            추억 속 여기서 그만 밖으로 나가줘\n
+            그래 너도 남김없이 버려 다 다신 후회 없게\n
+            일단 속 타는 마음 좀 식혀\n
+            \n
+            아무렴 어때\n
+            시원하게 게워내\n
+            속에 있던 얘기들 전부 씻어내\n
+            \n
+            전부 날리자 오늘 다 뱉어\n
+            속에 담아뒀던 그 모든 말들도\n
+            우린 한 쌍의 죽여주는 actor\n
+            연기 그만하고 우리 서로\n
+            이제 그만\n
+            \n
+            Yeah we gonna break break break together\n
+            서로의 값진 매일매일들을 불태워\n
+            이젠 모두 남김없이 버려도 우린 후회 없어\n
+            그저 속 타는 마음만 식혀\n
+            \n
+            이젠 내 내 내게 신경 꺼\n
+            추억 속 여기서 그만 밖으로 나가줘\n
+            그래 너도 남김없이 버려 다 다신 후회 없게\n
+            일단 속 타는 마음 좀 식혀</item>
+
+        <item>嗚呼いつもの様に\n
+            過ぎる日々にあくびが出る\n
+            さんざめく夜越え今日も\n
+            渋谷の街に朝が降る\n
+            どこか虚しいような\n
+            そんな気持ち\n
+            つまらないな\n
+            でもそれでいい\n
+            そんなもんさ\n
+            これでいい\n
+            知らず知らず隠してた\n
+            本当の声を響かせてよほら\n
+            見ないフリしていても\n
+            確かにそこにある\n
+            嗚呼 感じたままに描く\n
+            自分で選んだその色で\n
+            眠い空気纏う朝に\n
+            訪れた青い世界\n
+            好きなものを好きだと言う\n
+            怖くて仕方ないけど\n
+            本当の自分\n
+            出会えた気がしたんだ\n
+            嗚呼 手を伸ばせば伸ばすほどに\n
+            遠くへゆく\n
+            思うようにいかない今日も\n
+            また慌ただしくもがいてる\n
+            悔しい気持ちも ただ情けなくて\n
+            涙が出る\n
+            踏み込むほど 苦しくなる\n
+            痛くもなる\n
+            嗚呼 感じたままに進む\n
+            自分で選んだこの道を\n
+            重いまぶた擦る夜に\n
+            しがみついた青い誓い\n
+            好きなことを続けること\n
+            それは楽しいだけじゃない\n
+            本当にできる\n
+            不安になるけど\n
+            嗚呼 何枚でも ほら何枚でも\n
+            自信がないから描いてきたんだよ\n
+            嗚呼 何回でも ほら何回でも\n
+            積み上げてきたことが武器になる\n
+            周りを見たって 誰と比べたって\n
+            僕にしかできないことはなんだ\n
+            今でも自信なんかない それでも\n
+            感じたことない気持ち\n
+            知らずにいた想い\n
+            あの日踏み出して\n
+            初めて感じたこの痛みも全部\n
+            好きなものと向き合うことで\n
+            触れたまだ小さな光\n
+            大丈夫 行こう あとは楽しむだけだ\n
+            嗚呼 全てを賭けて描く\n
+            自分にしか出せない色で\n
+            朝も夜も走り続け\n
+            見つけ出した青い光\n
+            好きなものと向き合うこと\n
+            今だって怖いことだけど\n
+            もう今はあの日の透明な僕じゃない\n
+            嗚呼 ありのままの\n
+            かけがえの無い僕だ\n
+            知らず知らず隠してた\n
+            本当の声を響かせてよほら\n
+            見ないフリしていても\n
+            確かにそこに今もそこにあるよ\n
+            知らず知らず隠してた\n
+            本当の声を響かせてよさあ\n
+            見ないフリしていても\n
+            確かにそこに君の中に</item>
+
+        <item>It\'s going down\n
+            STAYC!\n
+            남의 말은 짜릿해 (mm-hmm)\n
+            앞뒤로들 make a fool\n
+            내가 볼 땐 아닌데 (mm-hmm)\n
+            자기들만 act so cool\n
+            상상은 자윤데 no way\n
+            진짜라고 믿거든\n
+            왜 자꾸 돌아가려 해?\n
+            답답해 how can I say?\n
+            서두르지 마 no hurries\n
+            Anyway, anyway\n
+            우리 다 이번 생은 처음이잖아\n
+            정답은 없어 one hunnit\n
+            그런 기대감 내려놔, 실망도 크니까 (damn)\n
+            Quiet please 비행기 모드로\n
+            편히 앉아 불필요한 말 속으로\n
+            내가 원할 때만 버튼 ooh-yeah\n
+            Yeah, yeah, yeah, yeah\n
+            바라만 봐 just like\n
+            Teddy bear\n
+            Ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh\n
+            Teddy bear\n
+            Ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh\n
+            Teddy bear\n
+            Ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh\n
+            Yeah!\n
+            Pump, pump, pump, pump it up\n
+            Teddy bear\n
+            Uh\n
+            No, no, no 멋이 없어 매일매일\n
+            똑똑, 말로만 so good (uh-huh)\n
+            뻔뻔해 넌 마치 like (JJ!)\n
+            Bang, bang (ba-ba-ba-ba-ba-ba-ba-ba)\n
+            Don\'t talk about it\n
+            Be about it or you will lose\n
+            욕심이 과해 always wake it up, it\'s your 꿈\n
+            서두르지 마 no hurries\n
+            Anyway, anyway\n
+            우린 다 이번 생은 처음이잖아\n
+            정답은 없어 one hunnit\n
+            그런 기대감 내려놔, 실망도 크니까 (damn)\n
+            Quiet please 비행기 모드로\n
+            편히 앉아 불필요한 말 속으로\n
+            내가 원할 때만 버튼 ooh-yeah\n
+            Yeah, yeah, yeah, yeah\n
+            바라만 봐 just like\n
+            Teddy bear\n
+            Ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh\n
+            Teddy bear\n
+            Ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh\n
+            Teddy bear\n
+            Ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh\n
+            Yeah!\n
+            Pump, pump, pump, pump it up\n
+            Teddy bear\n
+            모드를 확실히 해\n
+            걱정이 아니면 참견\n
+            Call it now, call it now\n
+            질투일지도 몰라\n
+            잘하고 있는 건 나 so keep it down\n
+            니가 원하는 건 뭘까? Ooh-whoa-whoa\n
+            Quiet please 비행기 모드로\n
+            편히 앉아 불필요한 말 속으로\n
+            내가 원할 때만 버튼 ooh-yeah\n
+            Yeah, yeah, yeah, yeah\n
+            바라만 봐 just like\n
+            Teddy bear\n
+            Ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh\n
+            Teddy bear\n
+            Ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh\n
+            Teddy bear\n
+            Ooh-ooh, ooh-ooh-ooh, ooh-ooh-ooh\n
+            Yeah!\n
+            Pump, pump, pump, pump it up\n
+            Teddy bear\n
+            Show in Roman char</item>
+
+        <item>Huh-ha\n
+            Hey\n
+            Hey yeah, hey\n
+            指切りげんまん ホラでも吹いたら\n
+            針でもなんでも 飲ませていただき Monday\n
+            It doesn\'t matter if it\'s Sunday\n
+            鏡よ鏡よ この世で1番\n
+            変わることのない 愛をくれるのは だれ\n
+            No need to ask \'cause it\'s my darling\n
+            あたしの最後はあなたがいい (いい)\n
+            あなたとこのままおサラバするより\n
+            死ぬのがいいわ\n
+            死ぬのがいいわ\n
+            三度の飯よりあんたがええのよ\n
+            あんたとこのままおサラバするよか\n
+            死ぬのがいいわ\n
+            死ぬのがいいわ\n
+            それでも時々 浮つく my heart\n
+            死んでも治らな治してみせます baby\n
+            Yeah, I ain\'t nothin\' but ya baby\n
+            失って初めて気がつくなんて\n
+            そんなダサいこと もうしたないのよ goodbye\n
+            Oh, don\'t you ever say bye bye, yeah\n
+            わたしの最後はあなたがいい (oh)\n
+            あなたとこのままおサラバするより (oh)\n
+            死ぬのがいいわ (死ぬのがいいわ)\n
+            死ぬのがいいわ (死ぬのがいいわ)\n
+            三度の飯よりあんたがええのよ\n
+            あんたとこのままおサラバするよか\n
+            死ぬのがいいわ (死ぬのがいいわ)\n
+            死ぬのがいいわ (死ぬのがいいわ)\n
+            Ay, ah-dadan-eh\n
+            Ah-dan, da-dan, dobi-dobi-ooh\n
+            Babadan-ba, labada-ah\n
+            Badaba-dan, badaba-dan, baba ay\n
+            Ay, badaba-dan ay\n
+            Balabalalalalabalalan-lan\n
+            Babadan-ba, lalalalalala\n
+            Balalan, nalalan, lalala yeah\n
+            あたしの最後はあなたがいい (oh)\n
+            あなたとこのままおサラバするより (oh)\n
+            死ぬのがいいわ (死ぬのがいいわ)\n
+            死ぬのがいいわ (死ぬのがいいわ)
+            三度の飯よりあんたがええのよ\n
+            あんたとこのままおサラバするよか\n
+            死ぬのがいいわ (ay 死ぬのがいいわ)\n
+            死ぬのがいいわ (死ぬのがいいわ)\n
+            それでも時々浮つく my heart\n
+            そんなダサいのは もう要らないのよ bye bye\n
+            I\'ll always stick with ya my baby</item>
+
+        <item>I can\'t throw away the pieces that you gave\n
+            Betrayed in a way of a knife stuck on my back\n
+            How could you do this?\n
+            We\'ve been through this for a while\n
+            Once a cure, now\'s a scar\n
+            Hold me not\n
+            Give me back my mind\n
+            My thoughts that you\'ve taken\n
+            Starve me to care\n
+            Could the night help me shut you out?\n
+            You gave me a lesson\n
+            Not to go and dive\n
+            But I already dive\n
+            I will try to latch myself out of your space\n
+            Far away until the distance passed its line\n
+            It\'s a new journey, my heart has had enough of pain\n
+            Once a fool, now I\'m awake\n
+            Hold me not\n
+            Give me back my mind\n
+            My thoughts that you\'ve taken\n
+            Starve me to care\n
+            Could the night help me shut you out?\n
+            You gave me a lesson\n
+            Not to go and dive\n
+            Not to go and dive\n
+            Not to go and dive\n
+            Not to go and dive\n
+            Not to go and dive\n
+            But I already dive\n
+            But I already dive\n
+            You\'re between the dawn and blackest sky\n
+            Could the night help me shut you out?\n
+            A lesson\n
+            Not to go and dive\n
+            But I already dive\n
+            But I already dive</item>
+
+        <item>Lompat-lompat kecil\n
+            Di lantai berduri\n
+            Ku asik menari\n
+            Di dunia sendiri\n
+            Sejenak berseri\n
+            Khayalku berlari\n
+            Penyendiri\n
+            Yang lupa diri\n
+            \n
+            Menghindar, sebisaku\n
+            Berbincang, ku tak mau\n
+            Walau ku, butuh bertumpu\n
+            Siapa? Ku tak tahu\n
+            \n
+            Ku takut salah langkah (Cerita)\n
+            Ke telinga yang salah (Ternyata)\n
+            Sulit untuk percaya\n
+            Kusimpan sendiri saja\n
+            \n
+            Lompat-lompat kecil\n
+            Di lantai berduri\n
+            Ku asik menari\n
+            Di dunia sendiri\n
+            Sejenak berseri\n
+            Khayalku berlari\n
+            Penyendiri\n
+            Yang lupa diri\n
+            \n
+            Dinding kamar, sekutuku\n
+            Fungsimu, seperti buku\n
+            Ruangku, curahkan pilu\n
+            Siapa yang, bisa begitu\n
+            \n
+            Ku takut salah langkah (Cerita)\n
+            Ke telinga yang salah (Ternyata)\n
+            Sulit untuk percaya\n
+            Kusimpan sendiri saja\n
+            \n
+            Lompat-lompat kecil\n
+            Di lantai berduri\n
+            Ku asik menari\n
+            Di dunia sendiri\n
+            Sejenak berseri\n
+            Khayalku berlari\n
+            Penyendiri\n
+            Yang lupa diri, ho-oh\n
+            Lompat-lompat kecil\n
+            Di lantai berduri\n
+            Ku asik menari\n
+            Di dunia sendiri\n
+            Sejenak berseri\n
+            Khayalku berlari\n
+            Penyendiri\n
+            Yang lupa diri, yeah\n
+            \n
+            Oh-oh-oh-oh-oh\n
+            Oh-oh-oh-oh-oh (Diri sendiri)\n
+            Oh-oh-oh-oh-oh\n
+            Ooooh-ooooh (Sejenak berseri)\n
+            Oh-oh-oh-oh-oh\n
+            Oh-oh-oh-oh-oh\n
+            Oh-oh-oh-oh-oh\n
+            Ooooh-ooooh</item>
+
+        <item>Hoo ooh ooh ooh ooh\n
+            Hoo ooh ooh ooh\n
+            Stay in the middle\n
+            Like you a little\n
+            Don\'t want no riddle\n
+            말해줘 say it back, oh, say it ditto\n
+            아침은 너무 멀어 so say it ditto\n
+            훌쩍 커버렸어\n
+            함께한 기억처럼\n
+            널 보는 내 마음은\n
+            어느새 여름 지나 가을\n
+            기다렸지 all this time\n
+            Do you want somebody\n
+            Like I want somebody?\n
+            날 보고 웃었지만\n
+            Do you think about me now? Yeah\n
+            All the time, yeah, all the time\n
+            I got no time to lose\n
+            내 길었던 하루, 난 보고 싶어\n
+            Ra-ta-ta-ta 울린 심장 (Ra-ta-ta-ta)\n
+            I got nothing to lose\n
+            널 좋아한다고 ooh-whoa, ooh-whoa, ooh-whoa\n
+            Ra-ta-ta-ta 울린 심장 (Ra-ta-ta-ta)\n
+            But I don\'t want to\n
+            Stay in the middle\n
+            Like you a little\n
+            Don\'t want no riddle\n
+            말해줘 say it back, oh, say it ditto\n
+            아침은 너무 멀어 so say it ditto\n
+            I don\'t want to walk in this 미로\n
+            다 아는 건 아니어도\n
+            바라던 대로 말해줘 say it back\n
+            Oh, say it ditto\n
+            I want you so, want you, so say it ditto\n
+            Not just anybody\n
+            너를 상상했지\n
+            항상 닿아있던\n
+            처음 느낌 그대로 난\n
+            기다렸지 all this time\n
+            I got nothing to lose\n
+            널 좋아한다고 ooh-whoa, ooh-whoa, ooh-whoa\n
+            Ra-ta-ta-ta 울린 심장 (Ra-ta-ta-ta)\n
+            But I don\'t want to\n
+            Stay in the middle\n
+            Like you a little\n
+            Don\'t want no riddle\n
+            말해줘 say it back, oh, say it ditto\n
+            아침은 너무 멀어 so say it ditto\n
+            I don\'t want to walk in this 미로\n
+            다 아는 건 아니어도\n
+            바라던 대로 말해줘 say it back\n
+            Oh, say it ditto\n
+            I want you so, want you, so say it ditto\n
+            Hoo ooh ooh ooh ooh\n
+            Hoo ooh ooh ooh</item>
+    </string-array>
+
+    <string-array name="data_cover">
+        <item>https://i.scdn.co/image/ab67616d0000b273736145b97bab8fa92cb6113f</item>
+        <item>https://i.scdn.co/image/ab67616d0000b2735a0c2870f4f309e382d1fad6</item>
+        <item>https://i.scdn.co/image/ab67616d0000b273d01c652006cd38b0ee3f49f3</item>
+        <item>https://i.scdn.co/image/ab67616d0000b273b43accd449468d819918efea</item>
+        <item>https://i.scdn.co/image/ab67616d0000b273834f16100678d3e800fb5fb9</item>
+        <item>https://i.scdn.co/image/ab67616d0000b27370101f436cad812b9606e52b</item>
+        <item>https://i.scdn.co/image/ab67616d0000b273684d81c9356531f2a456b1c1</item>
+        <item>https://i.scdn.co/image/ab67616d0000b273ebbb6b66adf9f2392bb86733</item>
+        <item>https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc</item>
+        <item>https://i.scdn.co/image/ab67616d0000b273878148e61fdb2357925e8bdf</item>
+        <item>https://i.scdn.co/image/ab67616d0000b273602e30520d576cf765e3496c</item>
+        <item>https://i.scdn.co/image/ab67616d0000b273edf5b257be1d6593e81bb45f</item>
+    </string-array>
+
+</resources>
